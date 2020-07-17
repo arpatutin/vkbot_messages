@@ -1,0 +1,33 @@
+{
+  "one_time": true,
+  "buttons": [
+    [
+      {
+        "action": {
+          "type": "text",
+          "label": "Что умеет этот бот",
+          "payload": ""
+        },
+        "color": "positive"
+      },
+      {
+        "action": {
+          "type": "text",
+          "label": "Отправить сообщение",
+          "payload": ""
+        },
+        "color": "positive"
+      }
+    ],
+    [
+      {
+        "action": {
+          "type": "text",
+          "label": "Информация для доната",
+          "payload": ""
+        },
+        "color": "negative"
+      }
+    ]
+  ]
+}

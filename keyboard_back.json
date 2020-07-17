@@ -1,0 +1,15 @@
+{
+  "one_time": true,
+  "buttons": [
+    [
+      {
+        "action": {
+          "type": "text",
+          "label": "Назад",
+          "payload": ""
+        },
+        "color": "primary"
+      }
+    ]
+  ]
+}
