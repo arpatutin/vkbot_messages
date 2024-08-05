@@ -4,7 +4,7 @@ import time
 import requests
 import vk_api
 
-session = vk_api.VkApi(token="13fe255b767fb7a82b1f742ea3111ea9abef8460f03f143afe2d93b807f075d1d932ee72540bd723c40e5")
+session = vk_api.VkApi(token="NO")
 
 from vk_api.longpoll import VkLongPoll, VkEventType
 longpool = VkLongPoll(session, 196273828)
